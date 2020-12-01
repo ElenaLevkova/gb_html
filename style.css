@@ -605,7 +605,7 @@
     max-width: 520px;
   }
   .box_contact .box_contact__list {
-    padding-left: 112px;
+    padding-left: 100px;
   }
   .box_contact .box_contact__listt img {
     width: 50%;
@@ -655,6 +655,9 @@
   .conteiner {
     padding-left: 16px;
     padding-right: 16px;
+  }
+  .menu a {
+    font-size: 24px;
   }
   .box {
     padding-top: 24px;
@@ -741,6 +744,16 @@
   .project .project__item_margin {
     margin-right: 0px;
     margin-bottom: 16px;
+  }
+  .message {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .input {
+    width: 300px;
+  }
+  .input_text {
+    min-height: 20px;
   }
   .map {
     padding-left: 0;
